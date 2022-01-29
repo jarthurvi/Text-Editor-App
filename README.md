@@ -26,7 +26,7 @@ Text Editor App
 This app allows you to create notes or code snippets without the internet and also keeps them availaible for retrieval later. 
 
 ## Installation
-Deployed at Heroku npm install 
+Deployed at Heroku [ https://stark-lowlands-66582.herokuapp.com/ ] npm install 
 
 ## Usage 
 Anyone can use 
